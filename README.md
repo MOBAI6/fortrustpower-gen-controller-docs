@@ -1,23 +1,48 @@
-# 孚创发电控制器文档中心（FPSS8607 系列）
+\# 孚创发电控制器文档中心（FPSS8607 系列）
+
+
 
 本仓库包含孚创电气自主研发的 FPSS8607 系列发电控制器技术资料，适用于多机并联、市电并联系统场景。
 
+
+
 📦 当前支持的控制器型号：
-- FPSS8607-G50：多台发电机组并联系统控制器
-- FPSS8607-G60：发电机与市电并联系统控制器
+
+\- FPSS8607-G50：多台发电机组并联系统控制器
+
+\- FPSS8607-G60：发电机与市电并联系统控制器
+
+
 
 📘 文档语言支持：中文 / English / Русский / Français / Türkçe  
-📍 官网链接：[https://www.fortrustpower.com/](https://www.fortrustpower.com/)
+
+📍 官网链接：\[https://www.fortrustpower.com/](https://www.fortrustpower.com/)
+
+
 
 ---
-## 🔗 快速导航
 
-- [FPSS8607-G50 控制器说明](docs/FPSS8607-G50.md)
-- [FPSS8607-G60 控制器说明](docs/FPSS8607-G60.md)
-- [常见问题 FAQ](docs/faq.md)
+\## 🔗 快速导航
+
+
+
+\- \[FPSS8607-G50 控制器说明](docs/FPSS8607-G50.md)
+
+\- \[FPSS8607-G60 控制器说明](docs/FPSS8607-G60.md)
+
+\- \[常见问题 FAQ](docs/faq.md)
+
+
 
 ---
-## 📢 关于孚创
+
+\## 📢 关于孚创
+
+
 
 孚创电气是一家专注于储能与发电控制系统的国家高新技术企业，服务于全球新能源、电力、工商业场景。
+
+
+
+
 
