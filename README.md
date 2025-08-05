@@ -1,0 +1,1 @@
+# fortrustpower-gen-controller-docs
